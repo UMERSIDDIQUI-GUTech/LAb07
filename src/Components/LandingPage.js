@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
 import '../styles/LandingPage.css'; // Import CSS file
 function LandingPage() {
@@ -11,7 +12,7 @@ Manage your professional identity. Build and engage with your professional netwo
 Learn More
 </button>
 <div className='pic'>
-    <img src='link.png'></img>
+   <img className='picture' src='link.png'></img>
 </div>
 </div>
 );

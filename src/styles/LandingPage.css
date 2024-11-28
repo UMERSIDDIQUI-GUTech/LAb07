@@ -37,9 +37,14 @@ font-weight: bold;
     .landing-button:hover {
     background-color: #0056b3;
     }
-    .pic{
-        border-radius: 50%;
-        border: #0056b3;
-        overflow: none;
-
+    .pic {
+        width: 40%;
+        height: 40%;
+        margin-top: 30px;
+        margin-bottom: 10px;
+        border-radius: 5px;
     }
+.picture{
+    border-radius: 10px;
+    margin-bottom: 8px;
+}

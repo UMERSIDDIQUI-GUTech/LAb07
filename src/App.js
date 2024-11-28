@@ -9,7 +9,6 @@ return (
 <div>
 <Navbar />
 <LandingPage />
-
 <Form/>
 <Footer/>
 </div>

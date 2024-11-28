@@ -1,5 +1,7 @@
+/* eslint-disable jsx-a11y/alt-text */
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react';
-import '../styles/Navbar.css'; // Import CSS file
+import '../styles/Navbar.css'; 
 function Navbar() {
 return (
 <nav className="navbar">
